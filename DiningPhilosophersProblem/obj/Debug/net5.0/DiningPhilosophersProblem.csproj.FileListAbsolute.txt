@@ -1,0 +1,16 @@
+C:\Users\patry\source\repos\DiningPhilosophersProblem\DiningPhilosophersProblem\bin\Debug\net5.0\DiningPhilosophersProblem.exe
+C:\Users\patry\source\repos\DiningPhilosophersProblem\DiningPhilosophersProblem\bin\Debug\net5.0\DiningPhilosophersProblem.deps.json
+C:\Users\patry\source\repos\DiningPhilosophersProblem\DiningPhilosophersProblem\bin\Debug\net5.0\DiningPhilosophersProblem.runtimeconfig.json
+C:\Users\patry\source\repos\DiningPhilosophersProblem\DiningPhilosophersProblem\bin\Debug\net5.0\DiningPhilosophersProblem.runtimeconfig.dev.json
+C:\Users\patry\source\repos\DiningPhilosophersProblem\DiningPhilosophersProblem\bin\Debug\net5.0\DiningPhilosophersProblem.dll
+C:\Users\patry\source\repos\DiningPhilosophersProblem\DiningPhilosophersProblem\bin\Debug\net5.0\ref\DiningPhilosophersProblem.dll
+C:\Users\patry\source\repos\DiningPhilosophersProblem\DiningPhilosophersProblem\bin\Debug\net5.0\DiningPhilosophersProblem.pdb
+C:\Users\patry\source\repos\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\net5.0\DiningPhilosophersProblem.csprojAssemblyReference.cache
+C:\Users\patry\source\repos\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\net5.0\DiningPhilosophersProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\source\repos\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\net5.0\DiningPhilosophersProblem.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\net5.0\DiningPhilosophersProblem.AssemblyInfo.cs
+C:\Users\patry\source\repos\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\net5.0\DiningPhilosophersProblem.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\net5.0\DiningPhilosophersProblem.dll
+C:\Users\patry\source\repos\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\net5.0\ref\DiningPhilosophersProblem.dll
+C:\Users\patry\source\repos\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\net5.0\DiningPhilosophersProblem.pdb
+C:\Users\patry\source\repos\DiningPhilosophersProblem\DiningPhilosophersProblem\obj\Debug\net5.0\DiningPhilosophersProblem.genruntimeconfig.cache
