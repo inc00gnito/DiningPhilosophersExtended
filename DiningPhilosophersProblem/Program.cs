@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 /// <summary>
+/// Autorzy:
+/// Patrycja Kozak
+/// Mateusz Rudko
+/// 
 /// Problem myślących filozofow z modyfikacjami.
 /// Filozof wybiera losowo miejsce, następnie wybiera jedna z mozliwych ksiazek(ale taka której nie wybrał wcześniej)
 /// Następnie idzie do stołu, gdzie czyta ksiązke, mysli oraz je
@@ -32,15 +36,15 @@ public class Philosopher
 
     public void Think()
     {
-        Console.WriteLine($"Philosopher {_num} is thinking...");
-        Console.WriteLine($"Philosopher {_num} is hungry!");
+        Console.WriteLine($"Philosopher {_num} myśli...");
+        Console.WriteLine($"Philosopher {_num} zgłodniał!");
     }
 
     public void Eat()
     {
-        Console.WriteLine($"Philosopher {_num} starts to eat...");
+        Console.WriteLine($"Philosopher {_num} zaczyna jeść...");
         Thread.Sleep(rnd.Next(500, 1000));
-        Console.WriteLine($"Philosopher {_num} finished eating!");
+        Console.WriteLine($"Philosopher {_num} skończył jeść!");
     }
 
     public void ReadBook(int num)
@@ -93,7 +97,7 @@ public class Philosopher
                     while (true)
                     {
                             // pick a book to read until u find one that has not been read
-                            bookNumber = rnd.Next(0, 3);
+                            bookNumber = rnd.Next(0, 5);
                             if (!_readBooks.Contains(bookNumber))
                             {
                                 _readBooks.Add(bookNumber);
@@ -156,12 +160,9 @@ public class Biesiada
         Object[] forks = new Object[licz_fil];
         Object[] books = new Object[licz_fil];
         Object[] seats = new Object[licz_fil];
-        for (int i = 0; i < 3; i++)
-        {
-            books[i] = new Object();
-        }
         for (int i = 0; i < licz_fil; i++)
         {
+            books[i] = new Object();
             forks[i] = new Object();
             seats[i] = new Object();
         }

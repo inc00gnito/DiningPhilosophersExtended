@@ -1,0 +1,1 @@
+W programie zastosowano do synchronizacji Klasę Monitor, która synchronizuje wyłącznie ten blok kodu, który tego potrzebuje, co wpływa na wzrost wydajności programu.
