@@ -1,4 +1,4 @@
-# DiningPhilosophersExtended
+# DiningPhilosophers | Problem ucztujących filozofów
 Problem ucztujących filozofów jest przykładem klasycznego zdania synchronizacji procesów.
 W tym przypadku mamy sytuację przypominającą ucztujących filozofów, lecz z dwoma modyfikacjami.
 
